@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Fluid matching card game with emoji sets and moves counter.
+  name: memory-card-match version: 1.0 type: Repository author: VarshuAi description: >   Fluid matching card game with emoji sets and moves counter. primary_tech: CSS
 primary_tech: CSS
 ```
 
